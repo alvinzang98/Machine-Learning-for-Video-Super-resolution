@@ -42,10 +42,14 @@ python test_video.py --upscale_factor 2 --model_name epoch_2_100.pt
 | video3 | 29.43 | 26.65 | 23.12 | 20.06 |   | 0.8848 | 0.7714 | 0.7321 | 0.6592 |
 
 video1 SRF-2
-![video1](results/SRF_2/video1.gif)
+
+<img src="results/SRF_2/video1.gif" alt="drawing" width="200"/>
 
 video2 SRF-4
-![video1](results/SRF_4/video2.gif)
+
+<img src="results/SRF_4/video2.gif" alt="drawing" width="400"/>
 
 video3 SRF-8
-![video1](results/SRF_8/video3.gif)
+
+<img src="results/SRF_8/video3.gif" alt="drawing" width="800"/>
+
